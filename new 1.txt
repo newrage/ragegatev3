@@ -1,0 +1,12 @@
+Place your Custom Mod .MPQ within your WoW's Data folder
+Path: World of Warcraft\Data\{Here}
+
+WoW will load any Custom MPQ files placed in it's Data folder, as long it is Labeled Correct: "Patch-#.MPQ"
+# is a Letter between A-Z, which needs to be in Capital letters.
+you can also use the Numbers. but i do not Recommend it. (but if you do use 4-9, single diget)
+also keep in mind that the P in Patch and MPQ needs to be in Capital
+
+File Priority:
+every file within WoW's file system is Unique, as so are textures
+if you want to use another Mod to Replace some content of another it will have a letter more do
+Example: Patch-B.MPQ, files will replace files Duplicate files in Patch-A-MPQ. any other files in Patch-A.MPQ will be used.
